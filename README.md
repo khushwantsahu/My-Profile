@@ -8,4 +8,4 @@ Screenshots: -
 <img width="1901" height="793" alt="image" src="https://github.com/user-attachments/assets/e8f74158-dbd2-4451-adf9-3f67c2bd5945" />
 <img width="1900" height="802" alt="image" src="https://github.com/user-attachments/assets/7e0474df-f000-46b1-9457-391f3d84f10c" />
     
-
+Updated portfolio deployment).
